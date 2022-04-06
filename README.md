@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [roblerom.games](https://roblerom.games/)
+- 🔭 I’m currently working on Fuzzyx
 - 🌱 I’m currently learning [Vue.js](https://vuejs.org/)
-<!-- - 👯 I’m looking to collaborate on *idk* -->
-<!-- - 🤔 I’m looking for help with *idk* -->
-<!-- - 💬 Ask me about my hobby -->
 - 📫 How to reach me: me@dellyis.me
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: -->
