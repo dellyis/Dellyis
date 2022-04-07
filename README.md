@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning [Vue.js](https://vuejs.org/)
 - 📫 How to reach me: me@dellyis.me
 - 😄 Pronouns: he/him
+
+![Dellyis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dellyis&count_private=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dellyis&theme=tokyonight)
+
 <!-- - ⚡ Fun fact: -->
 
 <!--
