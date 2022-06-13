@@ -1,12 +1,18 @@
-### Hi there 👋
+# Hi there 👋
+**I'm Dellyis (he/they)** - I'm a fullstack developer and moderator. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
-- 🔭 I’m currently working on Fuzzyx
-- 🌱 I’m currently learning [Vue.js](https://vuejs.org/)
-- 📫 How to reach me: me@dellyis.me
-- 😄 Pronouns: he/him
+[![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,py,html,css,nuxt,vue,tailwind,django,fastapi,mongodb,redis,vscode,cloudflare,discord)](https://skillicons.dev)<br/>
 
-![Dellyis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dellyis&count_private=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dellyis&theme=tokyonight)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/465853102914928640?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/465853102914928640)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/465853102914928640)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Dellyis&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dellyis&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 <!-- - ⚡ Fun fact: -->
 
