@@ -1,7 +1,7 @@
 # Hi there 👋
 **I'm Dellyis (he/they)** - I'm a fullstack developer and moderator. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
-<a href="#">[![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,py,html,css,nuxt,vue,tailwind,django,fastapi,mongodb,redis,vscode,cloudflare,discord)]</a><br/>
+<a href="#">![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,py,html,css,nuxt,vue,tailwind,django,fastapi,mongodb,redis,vscode,cloudflare,discord)</a><br/>
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/465853102914928640?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/465853102914928640)
