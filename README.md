@@ -3,10 +3,6 @@
 
 <a href="#">![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,py,html,css,nuxt,vue,tailwind,django,fastapi,mongodb,redis,vscode,cloudflare,discord)</a><br/>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/465853102914928640?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/465853102914928640)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/465853102914928640)
-
 <details>
   <summary>Github Stats ⚡</summary>
   
