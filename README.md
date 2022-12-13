@@ -1,13 +1,16 @@
 # Hi there 👋
 **I'm Dellyis (he/they)** - I'm a fullstack developer and moderator. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
-<a href="#">![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,py,html,css,nuxt,vue,tailwind,django,fastapi,mongodb,redis,vscode,cloudflare,discord)</a><br/>
+<a href="#">![](https://skillicons.dev/icons?i=js,nodejs,py,html,css,nuxt,vue,tailwind,django,fastapi,mongodb,redis,vscode,cloudflare,discord)</a><br/>
 
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Dellyis&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dellyis&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">
+  
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dellyis&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dellyis&theme=dark&hide_border=true" />
+  </a>
 </details>
 
 <!--
