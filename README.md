@@ -3,6 +3,8 @@
 
 <a href="#">![](https://skillicons.dev/icons?i=js,nodejs,py,html,css,nuxt,vue,tailwind,django,fastapi,mongodb,redis,vscode,cloudflare,discord)</a><br/>
 
+![](https://komarev.com/ghpvc/?username=dellyis)
+
 <details>
   <summary>Github Stats ⚡</summary>
   
